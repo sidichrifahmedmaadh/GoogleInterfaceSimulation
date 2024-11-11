@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<b align="center">![CoreKeeperCoreGIF](https://github.com/user-attachments/assets/d26a036b-2b95-460e-93f7-90a54547581d)
+About me</b>
 
 <br/>
 
