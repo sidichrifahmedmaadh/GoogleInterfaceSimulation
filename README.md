@@ -4,8 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" />
 </h1>
 
-<b align="center">![CoreKeeperCoreGIF](https://github.com/user-attachments/assets/d26a036b-2b95-460e-93f7-90a54547581d)
-About me</b>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Computer+Science+Student+From+Mauritania;Competitive+Programmer;Always+learning+new+things"></a>
+</p>
+
+<b align="center">About me</b>
 
 <br/>
 
