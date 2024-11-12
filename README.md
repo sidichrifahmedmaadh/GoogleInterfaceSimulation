@@ -3,7 +3,7 @@
 <h1/>
     
 <p> 
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "40"> About me :
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "45"> About me :
 <p/>
     
 <p align="center">
