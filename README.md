@@ -34,7 +34,7 @@
 <h2 >⚒️ Programming Languages :</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c++,java,python,javascript,typescript,php," /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
 </div>
 
 <h2 > Frontend Development :</h2>
