@@ -1,20 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sidichrifahmedmaadh.sidichrifahmedmaadh" />
 
-<h1 font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&> 
+<h1> 
     Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <br/> I'm Sidi Chrif Ahmed Maadh
 </h1>
 
 <br/>
 
-<p align="center">
+<h2>
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px><b>About me<b/>
+<h2/>
+
+<br/>
+
+<h2 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full-Stack+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
-<p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture> <b>About me<b/>
-<p/>
-
-<br/>
 
 <div align="center">
  
