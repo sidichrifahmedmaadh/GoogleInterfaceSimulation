@@ -19,7 +19,7 @@
 
 <p/>
 
-## ![WifiNoGIF](https://github.com/user-attachments/assets/d197c732-fb44-410d-8159-80cc546b6bdc)![SendMeGIF](https://github.com/user-attachments/assets/b023dd0b-bb0e-4e5a-9cf8-83d46ada3587) Connect with me
+## <a size=80>![WifiNoGIF (2)](https://github.com/user-attachments/assets/c8046341-f9d9-48cc-bc9e-86891bd75af6)<a/> Connect with me
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
