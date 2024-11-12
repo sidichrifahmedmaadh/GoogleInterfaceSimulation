@@ -33,7 +33,7 @@
   </a> -->
 </div>
 
-<h2 > <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Programming Languages :</h2>
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,php," /><br>
