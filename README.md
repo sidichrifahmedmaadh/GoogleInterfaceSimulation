@@ -34,13 +34,13 @@
 <h2 >⚒️ Programming Languages :</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c++,java,python,javascript,typescript,php,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c++,java,python,javascript,typescript,php," /><br>
 </div>
 
 <h2 > Frontend Development :</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,html,python,bootstrap,typescript,php,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=css,html,bootstrap" /><br>
 </div>
 
 <h2 > Backend Development : </h2>
