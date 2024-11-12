@@ -70,7 +70,7 @@
 <h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> IDEs : </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,Intellij,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,devpp,Intellij,pycharm" /><br>
 </div>
 
 <h2 > Framework : </h2>
