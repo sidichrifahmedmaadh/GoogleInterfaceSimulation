@@ -8,7 +8,6 @@
     
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer;Always+learning+new+things;Open+for+new+job+Opportunity" />
-    I'm
 </p>
 
 ## 🏹 My Competitive Programming Profiles :
@@ -19,6 +18,8 @@
     <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=bsDrp6QDOOnQ&format=png&color=000000" alt="Codewars"/></a>
 
 <p/>
+
+## ![WifiNoGIF](https://github.com/user-attachments/assets/d197c732-fb44-410d-8159-80cc546b6bdc)![SendMeGIF](https://github.com/user-attachments/assets/b023dd0b-bb0e-4e5a-9cf8-83d46ada3587) Connect with me
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
