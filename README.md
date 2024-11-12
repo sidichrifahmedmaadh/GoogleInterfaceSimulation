@@ -2,13 +2,15 @@
     Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <br/> I'm Sidi Chrif Ahmed Maadh
 <h1/>
     
-<p> 
+<div>
+    <p> 
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50"> About me :
 <p/>
     
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer;Always+learning+new+things;Open+for+new+job+Opportunity" />
 </p>
+</div>
 
 ## 🏹 My Competitive Programming Profiles :
 <p align="center">
@@ -21,7 +23,7 @@
 
 
 
-## 📬📨 Connect me with :
+## 📬Connect me with :
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,7 +35,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a> -->
 </div>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
