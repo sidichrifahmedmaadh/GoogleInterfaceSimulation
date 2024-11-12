@@ -61,10 +61,10 @@
     <img src="https://skillicons.dev/icons?i=mysql" /><br>
 </div>
 
-<h2 > DevOps : </h2>
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> DevOps : </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
 </div>
 
 <h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> IDEs : </h2>
@@ -94,10 +94,10 @@
 <h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems : </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,kalilinux" /><br>
 </div>
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,,github,figma,tailwind,git,r" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,,github,figma,tailwind,,r" />
 
 <br/>
 <hr/>
