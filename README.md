@@ -13,8 +13,8 @@
 ## 🏹 My Competitive Programming Profiles :
 <p align="center">
     <a href="https://leetcode.com/u/sidichrifahdmaadh/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-    <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/ padding-right="20"></a>
-    <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codewars"/ padding-right="20"></a>
+    <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+    <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/?size=100&id=bsDrp6QDOOnQ&format=png&color=000000" alt="Codewars"/></a>
 
 <p/>
 
