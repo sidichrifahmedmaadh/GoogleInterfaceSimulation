@@ -85,7 +85,13 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 > AI/ML : </h2>
+<h2 >🤖 AI/ML : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
