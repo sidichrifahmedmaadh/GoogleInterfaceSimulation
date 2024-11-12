@@ -10,8 +10,7 @@
 </p>
 </div>
 
-
-## 🏹 My Competitive Programming Profiles :
+<h2 >🏹 My Competitive Programming Profiles : </h2>
 <p align="center">
     <a href="https://leetcode.com/u/sidichrifahdmaadh/"><img src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
     <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Code Forces"/></a>
