@@ -31,12 +31,67 @@
   </a> -->
 </div>
 
-<h2 >⚒️ Programming Languages </h2>
+<h2 >⚒️ Programming Languages :</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c++,java,python,javascript,typescript,php,firebase,mongodb,nextjs,mysql,flask" /><br>
 </div>
+
+<h2 > Frontend Development :</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=css,html,python,bootstrap,typescript,php,firebase,mongodb,nextjs,mysql,flask" /><br>
+</div>
+
+<h2 > Backend Development : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+<h2 > Mobile App Development : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+</div>
+
+<h2 > Database : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+</div>
+
+<h2 > DevOps : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker" /><br>
+</div>
+
+<h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> IDEs : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,jetbrains" /><br>
+</div>
+
+<h2 > Framework : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+<h2 > Testing : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+<h2 > AI/ML : </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" /><br>
+</div>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,,github,figma,tailwind,git,r" />
 
 <br/>
 <hr/>
