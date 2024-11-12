@@ -19,8 +19,7 @@
     <a href="https://www.hackerrank.com/profile/sidichrifahdmaa1"><img src="https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank"/></a>
 <p/>
 
-
-## 📬Connect me with :
+<h2 >📬Connect me with : </h2>
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,7 +32,7 @@
   </a> -->
 </div>
 
-<h2 align="center">⚒️ Programming Languages </h2>
+<h2 >⚒️ Programming Languages </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
