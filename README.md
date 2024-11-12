@@ -79,7 +79,7 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 > Testing : </h2>
+<h2 >📝 Testing : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
@@ -94,10 +94,8 @@
 <h2 > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems : </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,kalilinux" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
 </div>
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,,github,figma,tailwind,,r" />
 
 <br/>
 <hr/>
