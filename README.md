@@ -11,7 +11,7 @@
 </p>
 
 ## 🏹 My Competitive Programming Profiles :
-<div> CodeForces : <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/ padding-right="10"></a>
+<div align="center"> CodeForces : <a href="https://codeforces.com/profile/sidi_maadh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/ padding-right="10"></a>
 
 CodeForces : <a href="https://leetcode.com/u/sidichrifahdmaadh/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 <div/>
