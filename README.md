@@ -7,7 +7,7 @@
 <br/>
 
 <h2>
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px><b>About me<b/>
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "35">About me
 <h2/>
 
 <br/>
