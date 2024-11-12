@@ -19,8 +19,8 @@
     <a href="https://www.codewars.com/users/sidi_maadh"><img src="https://img.icons8.com/?size=80&id=bsDrp6QDOOnQ&format=png&color=000000" alt="Codewars"/></a>
 <p/>
 
-<div>
-    ## 📬Connect me with :
+
+## 📬Connect me with :
 <div align="center"> 
   <a href="mailto:sidichrifahdmaadh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,7 +31,6 @@
   <!-- <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a> -->
-</div>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
