@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sidichrifahmedmaadh.sidichrifahmedmaadh" />
 
 <h1 align="center" font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&> 
-    Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sidi Chrif Ahmed Maadh
+    Hi There <br> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sidi Chrif Ahmed Maadh
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sidi+Chrif+Ahmed+Maadh;" /> -->
 </h1>
 
