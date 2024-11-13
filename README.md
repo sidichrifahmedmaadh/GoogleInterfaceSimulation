@@ -87,8 +87,8 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 > <img src = "https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width = 60px> AI/ML : </h2>
-<br/><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+## <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p> AI/ML :
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
