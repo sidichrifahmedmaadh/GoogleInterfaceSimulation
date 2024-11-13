@@ -87,7 +87,7 @@
     <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
-<h2 > <iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p> AI/ML : </h2>
+<h2 > <img src = "https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width = 60px> AI/ML : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" /><br>
