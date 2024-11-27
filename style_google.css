@@ -1,0 +1,75 @@
+
+header li{ 
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+header a{
+    text-decoration: none;
+    color: #000;
+}
+.google h1{
+display: inline;
+margin: -8px;
+font-family:  arial,sans-serif;
+}
+.google{
+    text-align: center;
+    font-size: 45px;
+    margin-top: -10px;
+}
+
+.G{
+    color: rgba(0, 132, 255, 0.856);
+}
+.oe{
+    color: rgba(255, 38, 0, 0.753);
+}
+.o{
+    color: orange
+}
+.l{
+    color: green;
+}
+
+.tab{
+   text-align: center;
+    text-align: center;
+
+}
+.p1{
+    display: inline;
+    margin: 20px;
+    border: 5px ;
+    background-color: #f1faee;
+    padding: 10px;
+    margin-left: 20px;
+   
+}
+.tab2 p :hover{
+    background-color: #f1faee;
+}
+.tab2 {
+ text-align: center;
+ margin-top: 5%;
+}
+input[type="search"]{
+   margin-left: 370px;
+  width: 620px;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 3%;
+
+
+}
+footer{
+    margin-top: 4%;
+    background-color: #f5f3f4;
+    padding: 15px;
+    height: 100px;
+}
+
+.fot{
+    display: inline;
+   margin: 35%;
+}
